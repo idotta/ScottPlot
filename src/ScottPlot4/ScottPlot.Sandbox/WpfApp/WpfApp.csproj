@@ -8,8 +8,8 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <ProjectReference Include="..\..\ScottPlot.WPF\ScottPlot.WPF.csproj" />
-        <ProjectReference Include="..\..\ScottPlot\ScottPlot.csproj" />
+        <ProjectReference Include="..\..\ScottPlot.WPF\ScottPlot4.WPF.csproj" />
+        <ProjectReference Include="..\..\ScottPlot\ScottPlot4.csproj" />
     </ItemGroup>
 
 </Project>

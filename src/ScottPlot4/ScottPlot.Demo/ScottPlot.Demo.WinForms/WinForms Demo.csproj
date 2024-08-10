@@ -15,7 +15,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <ProjectReference Include="..\..\ScottPlot\ScottPlot.csproj" />
+        <ProjectReference Include="..\..\ScottPlot\ScottPlot4.csproj" />
         <ProjectReference Include="..\..\ScottPlot.Cookbook\ScottPlot.Cookbook.csproj" />
         <ProjectReference Include="..\..\ScottPlot.WinForms\ScottPlot.WinForms.csproj" />
     </ItemGroup>
@@ -24,7 +24,7 @@
         <PackageReference Include="System.Drawing.Common" Version="4.7.2" />
         <PackageReference Include="System.Memory" Version="4.5.5" />
         <PackageReference Include="System.Resources.Extensions" Version="7.0.0" />
-        <PackageReference Include="Microsoft.CodeAnalysis.Metrics" Version="*" >
+        <PackageReference Include="Microsoft.CodeAnalysis.Metrics" Version="*">
             <PrivateAssets>all</PrivateAssets>
         </PackageReference>
     </ItemGroup>

@@ -8,7 +8,7 @@
 
     <ItemGroup>
         <ProjectReference Include="..\..\ScottPlot.WinForms\ScottPlot.WinForms.csproj" />
-        <ProjectReference Include="..\..\ScottPlot\ScottPlot.csproj" />
+        <ProjectReference Include="..\..\ScottPlot\ScottPlot4.csproj" />
     </ItemGroup>
 
 </Project>

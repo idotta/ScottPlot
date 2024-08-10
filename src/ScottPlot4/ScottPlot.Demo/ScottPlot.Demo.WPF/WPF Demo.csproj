@@ -9,10 +9,10 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <ProjectReference Include="..\..\ScottPlot.WPF\ScottPlot.WPF.csproj" />
+        <ProjectReference Include="..\..\ScottPlot.WPF\ScottPlot4.WPF.csproj" />
         <ProjectReference Include="..\..\ScottPlot.Cookbook\ScottPlot.Cookbook.csproj" />
-        <ProjectReference Include="..\..\ScottPlot\ScottPlot.csproj" />
-        <PackageReference Include="Microsoft.CodeAnalysis.Metrics" Version="*" >
+        <ProjectReference Include="..\..\ScottPlot\ScottPlot4.csproj" />
+        <PackageReference Include="Microsoft.CodeAnalysis.Metrics" Version="*">
             <PrivateAssets>all</PrivateAssets>
         </PackageReference>
     </ItemGroup>

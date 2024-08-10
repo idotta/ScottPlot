@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
 
     <PropertyGroup>
         <TargetFrameworks>net462;net472;net48;net6.0-windows;net8.0-windows</TargetFrameworks>
@@ -10,7 +10,7 @@
         <AssemblyVersion>4.1.74.0</AssemblyVersion>
         <FileVersion>4.1.74.0</FileVersion>
 
-        <AssemblyName>ScottPlot.WPF</AssemblyName>
+        <AssemblyName>ScottPlot4.WPF</AssemblyName>
         <OutputType>Library</OutputType>
         <RootNamespace>ScottPlot</RootNamespace>
         <PackageIcon>icon.png</PackageIcon>
@@ -35,7 +35,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <ProjectReference Include="..\ScottPlot\ScottPlot.csproj" />
+        <ProjectReference Include="..\ScottPlot\ScottPlot4.csproj" />
     </ItemGroup>
 
     <ItemGroup>

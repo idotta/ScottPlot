@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31717.71
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScottPlot", "ScottPlot\ScottPlot.csproj", "{EE9215C6-01C1-4835-8514-3A708F9291F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScottPlot4", "ScottPlot\ScottPlot4.csproj", "{EE9215C6-01C1-4835-8514-3A708F9291F1}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScottPlot.Tests", "ScottPlot.Tests\ScottPlot.Tests.csproj", "{DDBB14B8-2B35-4B8B-83A9-4447D1E7B19B}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScottPlot.WinForms", "ScottPlot.WinForms\ScottPlot.WinForms.csproj", "{1561FB75-F36A-44DC-BBA7-DA15DFF997ED}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScottPlot.WPF", "ScottPlot.WPF\ScottPlot.WPF.csproj", "{C94967B9-731F-4F59-ABFD-685E3D03B298}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScottPlot4.WPF", "ScottPlot.WPF\ScottPlot4.WPF.csproj", "{C94967B9-731F-4F59-ABFD-685E3D03B298}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WPF Demo", "ScottPlot.Demo\ScottPlot.Demo.WPF\WPF Demo.csproj", "{76C7D33E-964D-4738-8A01-F7D70B628F10}"
 EndProject

@@ -9,8 +9,8 @@
         <Compile Remove="CookbookOutput\**" />
         <EmbeddedResource Remove="CookbookOutput\**" />
         <None Remove="CookbookOutput\**" />
-        <ProjectReference Include="..\ScottPlot\ScottPlot.csproj" />
-        <PackageReference Include="Microsoft.CodeAnalysis.Metrics" Version="*" >
+        <ProjectReference Include="..\ScottPlot\ScottPlot4.csproj" />
+        <PackageReference Include="Microsoft.CodeAnalysis.Metrics" Version="*">
             <PrivateAssets>all</PrivateAssets>
         </PackageReference>
     </ItemGroup>
